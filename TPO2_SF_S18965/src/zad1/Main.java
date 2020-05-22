@@ -19,7 +19,7 @@ public class Main extends Application {
     static String country="";
     static String currency="";
     Button getWeather, getRatefor, getNBPRate, getWiki;
-    TextArea textInput, textOutput;;
+    TextArea textInput, textOutput;
     HBox hbox;
     Tab wikiTab,restTab;
     TabPane tabPane;
